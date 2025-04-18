@@ -10,7 +10,7 @@
     "npm": ">=8.0.0"
   },
   "dependencies": {
-    "directus": "^10.7.0",
+    "directus": "^10.12.1",
     "pg": "^8.11.1"
   }
 }
